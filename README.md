@@ -10,3 +10,5 @@ To install
 ## Usage
 To use: 
 - run node index while in root of project
+## video example 
+https://drive.google.com/file/d/1liWw2JQnawGOQ5EdfgJD-j7J4B8L2Enf/view
